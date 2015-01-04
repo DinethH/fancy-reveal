@@ -1,0 +1,32 @@
+{
+    "name": "fancy-reveal",
+    "version": "0.1.0",
+    "authors": [
+    "Dineth Hettiarachchi <dineth@sachintha.com>"
+  ],
+    "description": "Fancy card with a reveal layer.",
+    "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "fancy-login"
+  ],
+    "main": "fancy-reveal.html",
+    "license": "MIT",
+    "homepage": "https://github.com/DinethH/fancy-reveal/",
+    "ignore": [
+    "/.*",
+    "/tests/"
+  ],
+    "dependencies": {
+        "polymer": "Polymer/polymer#^0.5.2",
+        "font-roboto": "polymer/font-roboto#0.5.2",
+        "paper-shadow": "polymer/paper-shadow#0.5.2",
+        "paper-icon-button": "polymer/paper-icon-button#0.5.2",
+        "core-animated-pages": "polymer/core-animated-pages#0.5.2",
+        "webcomponentsjs": "polymer/webcomponentsjs#0.5.2"
+    },
+    "devDependencies": {
+        "web-component-tester": "Polymer/web-component-tester#^2.0.5"
+    }
+}
